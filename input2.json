@@ -1,0 +1,7 @@
+{
+  "polynomial": {
+    "degree": 3,
+    "coefficients": [2, -4, 3, -1]
+  },
+  "x_values": [0, 1, 2, 3]
+}
