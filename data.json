@@ -1,0 +1,9 @@
+{
+  "keys": {
+    "1": { "base": 2, "value": 1010 },
+    "2": { "base": 3, "value": 102 },
+    "3": { "base": 4, "value": 123 },
+    "4": { "base": 5, "value": 304 }
+  },
+  "equation": "Y1 + Y2 - Y3 + Y4"
+}
